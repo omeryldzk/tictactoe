@@ -30,7 +30,7 @@ This is a simple command-line implementation of the classic Tic Tac Toe game in 
 4.**Follow the prompts:**
 - Player 1 (X) and Player 2 (O) take turns entering their moves.
 - Enter a number (1-9) to place your symbol on the corresponding cell of the board.
-- 
+
 5.**Winning conditions:**
 
 - The game ends when a player achieves three symbols in a row (horizontally, vertically, or diagonally).
